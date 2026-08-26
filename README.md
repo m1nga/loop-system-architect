@@ -24,9 +24,9 @@ solo cron-grade loops with eight required elements instead of twenty.
 
 It is not for plain reminders: a scheduled re-run with no state and no
 verification belongs in your host scheduler (cron, schedule tools). Static
-product architecture is [`map-product-system`](https://github.com/m1nga/map-product-system);
+product architecture is [`map-product-system`](https://github.com/m1nga/map-product-system/);
 knowledge distillation as its own workflow is
-[`experience-pack`](https://github.com/m1nga/experience-pack).
+[`experience-pack`](https://github.com/m1nga/experience-pack/).
 
 ## Install
 
@@ -49,9 +49,9 @@ npx skills add m1nga/loop-system-architect
 
 ## Works well with
 
-- [`map-product-system`](https://github.com/m1nga/map-product-system) — draws the static
+- [`map-product-system`](https://github.com/m1nga/map-product-system/) — draws the static
   architecture that tells you which capabilities deserve a loop at all.
-- [`experience-pack`](https://github.com/m1nga/experience-pack) — owns lesson distillation as a
+- [`experience-pack`](https://github.com/m1nga/experience-pack/) — owns lesson distillation as a
   standalone concern; this skill's learning layer hands off to the same
   promotion discipline instead of reinventing it.
 
@@ -83,7 +83,7 @@ Probed 7 scenarios across 5 personas · 4 fired correctly · 2 correctly stayed 
 
 > **Live-fire:** `loop_lint.py` passed the shipped minimal example (exit 0), rejected the unfilled template with 27 named errors, and failed closed on every trap we set — a blank justification for `discovery: "none"`, and `"false"` as a string instead of a boolean.
 
-Probe method: [scenario-probe](https://github.com/m1nga/scenario-probe)
+Probe method: [scenario-probe](https://github.com/m1nga/scenario-probe/)
 
 ## Author
 

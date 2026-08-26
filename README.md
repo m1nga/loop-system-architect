@@ -1,4 +1,4 @@
-# loop-system-architect
+# Turn Repeated Agent Work Into a Reliable Closed Loop
 
 Turns "I keep running this prompt by hand" into a loop that executes, proves its result, and recovers after interruption — with a linter that fails contracts that only look complete.
 
